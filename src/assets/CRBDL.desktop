@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=DOOM BFA (Launcher)
+Exec=/usr/bin/mono /usr/share/monoapps/CRBDL/CDL.exe
+Icon=CRBDL
+Terminal=false
+Type=Application
+Categories=Game;
